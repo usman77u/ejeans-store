@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+//import { NavLink } from 'react-router-dom';
 //import jeans from '../src/images/jeans.jpg';
 import Card from './Card';
 import Sdata from './Sdata';
